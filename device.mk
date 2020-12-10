@@ -137,3 +137,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
   ro.vibrator.hal.click.duration=10 \
   ro.vibrator.hal.tick.duration=4 \
   ro.vibrator.hal.heavyclick.duration=12
+
+# Overlay for SystemUI padding
+PRODUCT_PACKAGES += \
+    SystemUIGoogleOverlayHentai
